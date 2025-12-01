@@ -1,0 +1,27 @@
+TEXT ANALYSIS REPORT
+=====================
+File analysed: test.txt
+
+BASIC STATS:
+Lines: 16501
+Words: 153396
+Chars (with spaces): 828441
+Chars (no spaces): 688240
+Average words per line: 9.30
+Average chars per word: 5.40
+
+WORD ANALYSIS:
+Unique words: 9449
+Words appearing once: 4381
+
+Top 10 Most Common Words:
+1. the        11001 times
+2. and        5478 times
+3. to         4117 times
+4. he         3858 times
+5. a          2958 times
+6. that       2749 times
+7. of         2428 times
+8. was        2377 times
+9. in         2287 times
+10. had        2043 times
